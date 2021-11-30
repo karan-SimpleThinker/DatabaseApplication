@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Employee detail</string>
+    <string name="hello">Hello World, Employee detail Activity</string>
+    <string name="title">Employee detail</string>
+    <string name="empid">Enter Employee ID:</string>
+    <string name="name">Enter Name:</string>
+    <string name="salary">Enter Salary:</string>
+    <string name="add">Add Employee</string>
+    <string name="delete">Delete Employee</string>
+    <string name="modify">Modify Employee</string>
+    <string name="view">View Employee</string>
+    <string name="view_all">View All Employee</string>
+</resources>
